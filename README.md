@@ -1,6 +1,6 @@
-👋 Hi there! I’m Rowell, a passionate career changer diving into the world of software engineering and development. After spending 5 years in the field of IT, I've decided to pursue my career in coding.
+👋 Hi there! I’m Rowell, a passionate career changer exploring the world of software engineering and development. After spending 5 years in the IT field, I’ve decided to dive into coding as a fulfilling hobby.
 
-💻 Currently, I’m honing my skills in Python during my free time, working on projects that fuel my curiosity and drive innovation. I thrive on learning new technologies and exploring data-driven solutions.
+💻 In my free time, I enjoy honing my skills in Python and working on projects that spark my curiosity and creativity. I love learning about new technologies and discovering data-driven solutions as a way to combine my interests and make sense of the world around me.
 
 📚 Learning Journey:
 
