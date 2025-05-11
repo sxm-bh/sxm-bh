@@ -1,10 +1,11 @@
-👋 Hi there! I’m Rowell, a passionate career changer exploring the world of software engineering and development. After spending 5 years in the IT field, I’ve decided to dive into coding as a fulfilling hobby.
+💻 Enthusiastically exploring the world of coding and technology. Passionate about understanding new concepts, experimenting with projects, and building a foundation in programming. Eager to collaborate, grow my skills, and contribute to innovative solutions.
 
-💻 In my free time, I enjoy honing my skills in Python and working on projects that spark my curiosity and creativity. I love learning about new technologies and discovering data-driven solutions as a way to combine my interests and make sense of the world around me.
 
-📚 Learning Journey:
-
-- 📖 [[The Complete Python Bootcamp From Zero to Hero in Python]](https://www.udemy.com/share/101W8Q3@XbcG2sC9jcjVknbmDJtHnajQ5NK03t9i-riE0uh1opxJ514RG3xA_dIRS7k2r6rf/)
-- 🚀 Building course projects to strengthen my skills and be able to contribute to open source
-- 💡 Exploring frameworks and libraries like Flask, Django, and Pandas
-- 🌱 I’m eager to connect with fellow developers, share knowledge, and collaborate on exciting projects.
+---
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=bash&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
